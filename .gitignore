@@ -1,0 +1,15 @@
+# Ignore the virtual environment
+.venv/
+
+# Ignore temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore dataset files
+lending_club_loan_two.csv
+lending_club_info.csv
